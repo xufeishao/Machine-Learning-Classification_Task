@@ -7,7 +7,7 @@ Classification task for diabetes dataset
 Predict the onset of diabetes based on diagnostic measures
 
 ## Datasets
-One dataset is provided: from Pima Indians Diabetes Database (downloaded from kaggle)
+One dataset is provided: from Pima Indians Diabetes Database
 
 ## Scope
 Exploratory data analysis
